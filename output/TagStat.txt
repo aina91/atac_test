@@ -1,0 +1,5 @@
+#Sequence	SpeciesNO	readCount	Pct
+A	unknown	276	27.60%
+G	unknown	268	26.80%
+T	unknown	247	24.70%
+C	unknown	209	20.90%
