@@ -1,0 +1,8 @@
+徐老师您好!  十分感谢您的指导 ：)
+split_update/sample_index_origin.PNG 是公司反馈的sample_index 的信息
+V300034875_L01_read_1_head10000.fq.gz
+V300034875_L01_read_2_head10000.fq.gz  是前2500reads 的 raw data 
+以及SplitBarcode.pl 和 script 请您订正  
+ chmod 755 SplitBarcode.pl 赋予了程序可执行权限
+
+
